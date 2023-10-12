@@ -5,9 +5,10 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Nilkanthanawar</h1>
 <h3 align="center">I've Completed A Full Stack Data Science Boot Camp At iNeuron.ai In Bangalore, And I've Also Earned Certifications From IBM And Google On Coursera. With Hands-On Experience From Internships And End-To-End Projects. I'm Now Seeking Entry-Level Roles In Data Science, Data Analytics, And Business Analysis. Discover How I Can Contribute To Your Organization's Data-Driven Success.</h3>
 
-<div style="overflow: hidden; width: 200px; height: auto;">
-  <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" style="margin-left: -50px;">
+<div style="width: 100px; height: auto;">
+ <img align="right" alt="Coding" width="400" src="https://wpfrank.com/demo/slider-factory-pro/wp-content/uploads/sites/8/2021/07/working.gif" style="margin: 0 auto; clip-top: 10px; clip-right: 10px; clip-bottom: 10px; clip-left: 10px;">
 </div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtrchaitanya&label=Profile%20views&color=0e75b6&style=flat" alt="rtrchaitanya" /> </p>
 
@@ -42,6 +43,8 @@
 <p align="left">
 <a href="https://public.tableau.com/app/profile/chaitanya.nilkanthanawar/vizzes" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="chaitanyacode" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/posts/chaitanyacode_amazonsales-datavisualization-tableaudashboard-activity-7087755534493261824-4sE0?utm_source=share&utm_medium=member_desktop" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="chaitanyacode11" height="30" width="40" /></a>
+
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rtrchaitanya&show_icons=true&locale=en&layout=compact" alt="rtrchaitanya" /></p>
