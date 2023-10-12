@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Data Analytics Advance Technics**
 
-- 👨‍💻 All of my projects are available at [https://chaitanyacode11.wixsite.com/portfolio](https://chaitanyacode11.wixsite.com/portfolio)
+- 👨‍💻 All of my projects are available at [https://shorturl.at/ekBMO)
 
 - 💬 Ask me about **Data Science, Data Analytics And Business Analytics**
 
 - 📫 How to reach me **chaitanyacode11@gmail.com**
 
-- 📄 Know about my experiences [https://5bb430a6-9fa3-4d8f-9015-f4f7ef513e2a.filesusr.com/ugd/0e3d32_3fae53da1c3a41a4b88fcd402baebcc0.pdf](https://5bb430a6-9fa3-4d8f-9015-f4f7ef513e2a.filesusr.com/ugd/0e3d32_3fae53da1c3a41a4b88fcd402baebcc0.pdf)
+- 📄 Know about my experiences [https://shorturl.at/gmO79)
 
 - ⚡ Fun fact **I Once Hiked To The Summit Of Himalaya, And The Sense Of Accomplishment And Determination I Gained From That Experience Fuels My Drive To Tackle Complex Challenges And Contribute To Data-Driven Success In Your Organization**
 
