@@ -41,7 +41,3 @@
 <a href="https://www.linkedin.com/posts/chaitanyacode_amazonsales-datavisualization-tableaudashboard-activity-7087755534493261824-4sE0?utm_source=share&utm_medium=member_desktop" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="chaitanyacode11" height="30" width="40" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rtrchaitanya&show_icons=true&locale=en&layout=compact" alt="rtrchaitanya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rtrchaitanya&show_icons=true&locale=en" alt="rtrchaitanya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rtrchaitanya&" alt="rtrchaitanya" /></p>
