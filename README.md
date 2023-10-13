@@ -6,7 +6,7 @@
 <h3 align="center">I've Completed A Full Stack Data Science Boot Camp At iNeuron.ai In Bangalore, And I've Also Earned Certifications From IBM And Google On Coursera. With Hands-On Experience From Internships And End-To-End Projects. I'm Now Seeking Entry-Level Roles In Data Science, Data Analytics, And Business Analysis. Discover How I Can Contribute To Your Organization's Data-Driven Success.</h3>
 
 <div style="width: 100px; height: auto;">
- <img align="right" alt="Coding" width="400" src="https://wpfrank.com/demo/slider-factory-pro/wp-content/uploads/sites/8/2021/07/working.gif" style="margin: 0 auto; clip-top: 10px; clip-right: 10px; clip-bottom: 10px; clip-left: 10px;">
+ <img align="right" alt="Coding" width="400" src="https://github.com/rtrchaitanya/-Linear-Regression/blob/main/hfgh.gif" style="margin: 0 auto; clip-top: 10px; clip-right: 10px; clip-bottom: 10px; clip-left: 10px;">
 </div>
 
 
